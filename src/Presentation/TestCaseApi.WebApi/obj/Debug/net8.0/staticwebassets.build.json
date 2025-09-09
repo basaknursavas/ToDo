@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uRFtae4f/1tMzqYVdvzdDrTXNqHyMewIVWy5/vBoyjc=",
+  "Source": "TestCaseApi.WebApi",
+  "BasePath": "_content/TestCaseApi.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
